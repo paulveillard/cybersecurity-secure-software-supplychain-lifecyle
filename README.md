@@ -12,3 +12,10 @@ An ongoing & curated collection of awesome software best practices and technique
 
 Digital Transformation continues at a relentless pace, putting even greater responsiblity on business executives to meet new demands of a fully customer experience. With every organization now a software-driven company, technology leaders are expected to enable business outcomes like flexibility and scale from moving to the cloud.
 However, many struggle to maintain consisten security and performance in their complex, hybrid IT environment, stalling transformation efforts in their software factory.
+
+**
+Organizations need integrated security tooling and processes that support DevSecOps Practices, driven in part by the following:
+- Elevated complexity for secure development
+- The growing use of open source components
+- New attack vectors discovered each day
+- Stricter regulatory requirements
