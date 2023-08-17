@@ -7,3 +7,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## Introduction
+
+### Why software security and secure supply chains matter even more today:
+
+Digital Transformation continues at a relentless pace, putting even greater responsiblity on business executives to meet new demands of a fully customer experience. With every organization now a software-driven company, technology leaders are expected
