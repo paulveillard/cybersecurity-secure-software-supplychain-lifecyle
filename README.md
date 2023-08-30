@@ -20,3 +20,12 @@ However, many struggle to maintain consisten security and performance in their c
 - New attack vectors discovered each day
 - Stricter regulatory requirements
 ```
+
+## Software Supply Chain DevSecOps Challenge
+- Maintaining and Improving legacy applications and infrastructure is complicated and places strain on already limited IT Resources
+- Building and running brand new applications using modern frameworks and cloud-native
+
+DevSecOps Best Practices for Developers:
+
+Implement Security Early and Often
+Automate Security Wherever Possible
