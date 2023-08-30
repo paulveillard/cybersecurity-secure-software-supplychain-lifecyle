@@ -23,7 +23,8 @@ However, many struggle to maintain consisten security and performance in their c
 
 ## Software Supply Chain DevSecOps Challenge
 - Maintaining and Improving legacy applications and infrastructure is complicated and places strain on already limited IT Resources
-- Building and running brand new applications using modern frameworks and cloud-native
+- Building and running brand new applications using modern frameworks and cloud-native application architectures increases cognitive load for dev teams
+- Security is often an afterthought that's handled by security and IT operations teams at the end of the application development life cycle, with little to no collaboration with app development and other teams
 
 DevSecOps Best Practices for Developers:
 
