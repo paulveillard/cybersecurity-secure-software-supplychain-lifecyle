@@ -31,5 +31,9 @@ The overall market is growing toward application platforms that can provide for 
 
 DevSecOps Best Practices for Developers:
 
-Implement Security Early and Often
-Automate Security Wherever Possible
+- Implement Security Early and Often
+- Automate Security Wherever Possible
+- Emphasize Collaboration between development, security, and operations teams
+- Use secure coding practices
+- Conduct regular security assessments
+- Continuously monitor and improve security
