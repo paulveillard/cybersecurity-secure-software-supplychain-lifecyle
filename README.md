@@ -42,12 +42,12 @@ DevSecOps Best Practices for Developers:
 Successfully implementing DevSecOps begins well before the application pipeline. As a first step, organizations will want to ensure their underlying infrastructure and application services are running on an enterprise open source foundation prehardened with built-in security tools and features.
 ### 1) Get trusted images and libraries out-of-the-box
 
-**Stay on top of the latest vulnerabilities and security risks** by making use of trusted content in the form of libraries from popular application frameworks available including Java, Node.js, Python, Go, and packages from Red Hat Enterprise Linux (RHEL).
+- **Stay on top of the latest vulnerabilities and security risks** by making use of trusted content in the form of libraries from popular application frameworks available including Java, Node.js, Python, Go, and packages from Red Hat Enterprise Linux (RHEL).
 
 ### 2)  Maintain a highly available container registry from which to securely access and incorporate attested, curated packages
 
-> Restrict access to the container registry and the images stored within using granular role-based access controls (RBAC) to reduce risk of unauthorized entry. 
-> Securely store and manage images that are used to deploy applications and services, ensuring that only trusted images are used in production. 
-> Run rootless container images to install packages and run services safely within the container without impacting the host.
+- **Restrict access to the container registry and the images stored** within using granular role-based access controls (RBAC) to reduce risk of unauthorized entry. 
+- **Securely store and manage images that are used to deploy applications and services**, ensuring that only trusted images are used in production. 
+- **Run rootless container images to install packages and run services safely** within the container without impacting the host.
 
 
