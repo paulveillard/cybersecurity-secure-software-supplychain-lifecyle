@@ -39,3 +39,9 @@ DevSecOps Best Practices for Developers:
 - Continuously monitor and improve security
 
 ## Enabling a successful DevSecOps Practice
+Successfully implementing DevSecOps begins well before the
+application pipeline. As a first step, organizations will want to
+ensure their underlying infrastructure and application services
+are running on an enterprise open source foundation prehardened
+with built-in security tools and features.
+
