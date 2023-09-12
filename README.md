@@ -42,6 +42,6 @@ DevSecOps Best Practices for Developers:
 Successfully implementing DevSecOps begins well before the application pipeline. As a first step, organizations will want to ensure their underlying infrastructure and application services are running on an enterprise open source foundation prehardened with built-in security tools and features.
 ### 1) Get trusted images and libraries out-of-the-box
 
-Stay on top of the latest vulnerabilities and security
+**Stay on top of the latest vulnerabilities and security risks** by making use of trusted content in the form of libraries from popular application frameworks available including Java, Node.js, Python, Go, and packages from Red Hat Enterprise Linux (RHEL).
 
 
