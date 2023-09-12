@@ -40,8 +40,22 @@ DevSecOps Best Practices for Developers:
 - Conduct regular security assessments
 - Continuously monitor and improve security
 
-## Enabling a successful DevSecOps Practice
+## Enabling a Successful DevSecOps Practice
 Successfully implementing DevSecOps begins well before the application pipeline. As a first step, organizations will want to ensure their underlying infrastructure and application services are running on an enterprise open source foundation prehardened with built-in security tools and features.
+
+> Developers need security scanning and guidance across all
+aspects of cloud-based applications. Beyond just the software
+packages, they need security coverage on tooling, application
+configurations, and the entire solution architecture,
+including infrastructure.
+
+> Developers also need flexibility to move workloads to any
+footprint that works best with consumption options to match
+the organization’s needs for an open hybrid cloud. Building on
+trusted, industry-proven container orchestration platforms
+adds the advantages of standards and consistency to continue
+their investments in, for example, a Kubernetes-native
+Java framework like Quarkus.
 ### 1) Get trusted images and libraries out-of-the-box
 
 - **Stay on top of the latest vulnerabilities and security risks** by making use of trusted content in the form of libraries from popular application frameworks available including Java, Node.js, Python, Go, and packages from Red Hat Enterprise Linux (RHEL).
