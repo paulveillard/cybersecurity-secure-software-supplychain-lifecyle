@@ -49,5 +49,9 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - **Restrict access to the container registry and the images stored** within using granular role-based access controls (RBAC) to reduce risk of unauthorized entry. 
 - **Securely store and manage images that are used to deploy applications and services**, ensuring that only trusted images are used in production. 
 - **Run rootless container images to install packages and run services safely** within the container without impacting the host.
+- **Increase transparency and visibility across software factories** to build trust between security teams and DevOps teams.
+- **Allow image signing for verification and authentication,** which helps prevent malicious code from being added to the registry.
+- **Verify the authenticity of the software build of materials** and prevent tampering to ensure code integrity.
+- **Support the use of digital signatures and certificates** that attests to the origin of software components as coming from a trusted source.
 
 
