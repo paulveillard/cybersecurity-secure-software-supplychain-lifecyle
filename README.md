@@ -63,6 +63,8 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - **Verify the authenticity of the software build of materials** and prevent tampering to ensure code integrity.
 - **Support the use of digital signatures and certificates** that attests to the origin of software components as coming from a trusted source.
 
+### 3) Protect source code and dependencies in code management with security best practices
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
