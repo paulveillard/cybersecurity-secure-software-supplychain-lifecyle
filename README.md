@@ -69,7 +69,10 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - You need to carefully manage dependencies, and any libraries or components used in the build process should be regularly audited for vulnerabilities.
 - Component analysis helps organizations identify and assess the risk of third-party components in their software supply chain.
 
-
+### 4) Strengthen the CI/CD pipeline with an automated chain of trust and approval gates
+- Control the flow of software dependencies and ensure that only trusted packages are used in builds and deployments to prevent poisoned pipeline execution in the software factory.
+- Manage and secure the use of various software components that make up the build by first auto-generating software bill of materials (SBOMs) with metadata on how each artifact was built.
+- Authenticate provenance to industry standards through version control, auditing, and traceability of all software components used in the development process.
 
 
 
