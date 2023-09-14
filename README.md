@@ -73,6 +73,14 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - Control the flow of software dependencies and ensure that only trusted packages are used in builds and deployments to prevent poisoned pipeline execution in the software factory.
 - Manage and secure the use of various software components that make up the build by first auto-generating software bill of materials (SBOMs) with metadata on how each artifact was built.
 - Authenticate provenance to industry standards through version control, auditing, and traceability of all software components used in the development process.
+- Automate CI/CD pipelines with regular security checks integrated throughout the build process to ensure all inputs and outputs are secure as teams compile code, build images, and run tests. - - Institute strong protections against
+tampering through cross-build contamination. Immediately
+detect and alert on any changes or unauthorized
+modifications to the source code and OSS dependencies
+that are impacting build artifacts stored in the repository.
+Determine which versions of what components were used
+in any given application and understand the impact of that
+change to mitigate risks in the SDLC.
 
 
 
