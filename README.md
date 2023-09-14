@@ -64,17 +64,12 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - **Support the use of digital signatures and certificates** that attests to the origin of software components as coming from a trusted source.
 
 ### 3) Protect source code and dependencies in code management with security best practices
-Analyze and detect potential vulnerabilities, malware, or
-other malicious code before they are consumed across
-software factories. Make use of automated code analysis
-to scan for potential security vulnerabilities in images
-and for other security issues before they’re committed
-to the code repository. You need to carefully manage
-dependencies, and any libraries or components used
-in the build process should be regularly audited for
-vulnerabilities. Component analysis helps organizations
-identify and assess the risk of third-party components in
-their software supply chain.
+- Analyze and detect potential vulnerabilities, malware, or other malicious code before they are consumed across software factories.
+- Make use of automated code analysis to scan for potential security vulnerabilities in images and for other security issues before they’re committed to the code repository.
+- You need to carefully manage dependencies, and any libraries or components used in the build process should be regularly audited for vulnerabilities.
+- Component analysis helps organizations identify and assess the risk of third-party components in their software supply chain.
+
+
 
 
 
