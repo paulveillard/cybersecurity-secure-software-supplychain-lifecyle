@@ -7,7 +7,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Introduction](#)
 - [Enabling a successful DevSecOps Practice](#)
   - [Get trusted images and libraries out-of-the-box](#1-get-trusted-images-and-libraries-out-of-the-box)
-  - [Maintain a highly available container registry from which to securely access and incorporate attested, curated packages](
+  - [Maintain a highly available container registry from which to securely access and incorporate attested, curated packages](#2--maintain-a-highly-available-container-registry-from-which-to-securely-access-and-incorporate-attested-curated-packages)
 
 
 ## Introduction
