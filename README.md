@@ -79,6 +79,8 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - Determine which versions of what components were used in any given application and understand the impact of that change to mitigate risks in the SDLC.
 
 
+### 5) Monitor applications at runtime with contextual insights into vulnerabilities and threats to deployed workloads
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
