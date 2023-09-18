@@ -6,7 +6,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 - [Introduction](#)
 - [Enabling a successful DevSecOps Practice](#)
-  - 
+  - (Enabling a Successful DevSecOps Practice
 
 
 ## Introduction
