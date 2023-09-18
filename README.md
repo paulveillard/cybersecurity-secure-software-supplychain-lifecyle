@@ -6,7 +6,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 - [Introduction](#)
 - [Enabling a successful DevSecOps Practice](#)
-  - (Enabling a Successful DevSecOps Practice
+  - [Get trusted images and libraries out-of-the-box](#1-get-trusted-images-and-libraries-out-of-the-box)
 
 
 ## Introduction
