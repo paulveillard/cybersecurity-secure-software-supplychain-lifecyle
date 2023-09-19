@@ -84,7 +84,7 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 ### 5) Monitor applications at runtime with contextual insights into vulnerabilities and threats to deployed workloads
 - Ensure that deployment environments are secure at runtime by implementing proper access controls, threat prevention and anomaly detection, network segmentation, and runtime vulnerability detection.
 - Provide complete end-to-end visibility into all components and their respective sources to continuously monitor and proactively identify changes in the risk profile caused by malicious components.
--  Implement monitoring and logging systems that instantly detect, alert, and direct on potential security incidents.
+- Implement monitoring and logging systems that instantly detect, alert, and direct on potential security incidents.
 
 
 ## License
