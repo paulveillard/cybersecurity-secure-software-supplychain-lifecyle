@@ -9,6 +9,8 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Enabling a successful DevSecOps Practice](#)
   - [Get trusted images and libraries out-of-the-box](#1-get-trusted-images-and-libraries-out-of-the-box)
   - [Maintain a highly available container registry from which to securely access and incorporate attested, curated packages](#2--maintain-a-highly-available-container-registry-from-which-to-securely-access-and-incorporate-attested-curated-packages)
+ 
+## `Techniques` - Table of Contents
 
 ## `Tools` - Table of Contents
 - [software-supply-chain-security - Tools](#oftware-supply-chain-security---tools)
