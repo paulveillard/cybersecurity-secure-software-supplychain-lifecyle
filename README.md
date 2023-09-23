@@ -12,7 +12,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Tools` - Table of Contents
 - [software-supply-chain-security - Tools](#software-supply-chain-security-tools)
-  - [Introduction - What this is all about](#introduction--what-this-is-all-about)
+  - [Introduction - What this is all about](#introduction---what-this-is-all-about)
   - [Dependency intelligence](#dependency-intelligence)
     - [SCA and SBOM](#sca-and-sbom)
     - [Vulnerability information exchange](#vulnerability-information-exchange)
