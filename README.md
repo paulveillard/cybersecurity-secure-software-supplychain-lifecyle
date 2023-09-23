@@ -4,11 +4,26 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 # Theory
-## `Table of Contents`
+## Therory `Table of Contents`
 - [Introduction](#)
 - [Enabling a successful DevSecOps Practice](#)
   - [Get trusted images and libraries out-of-the-box](#1-get-trusted-images-and-libraries-out-of-the-box)
   - [Maintain a highly available container registry from which to securely access and incorporate attested, curated packages](#2--maintain-a-highly-available-container-registry-from-which-to-securely-access-and-incorporate-attested-curated-packages)
+
+## Tools - Table of Contents
+- [software-supply-chain-security - Tools](#software-supply-chain-security-tools)
+  - [Introduction - What](#introduction)
+  - [Dependency intelligence](#dependency-intelligence)
+    - [SCA and SBOM](#sca-and-sbom)
+    - [Vulnerability information exchange](#vulnerability-information-exchange)
+  - [Point-of-use validations](#point-of-use-validations)
+    - [Supply chain beyond libraries](#supply-chain-beyond-libraries)
+  - [Identity, signing and provenance](#identity-signing-and-provenance)
+  - [Frameworks and best practice references](#frameworks-and-best-practice-references)
+  - [Build techniques](#build-techniques)
+  - [Talks, articles, media coverage and other reading](#talks-articles-media-coverage-and-other-reading)
+    - [Getting started and staying fresh](#getting-started-and-staying-fresh)
+
 
 
 ## Introduction
