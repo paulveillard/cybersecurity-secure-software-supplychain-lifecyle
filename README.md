@@ -93,6 +93,22 @@ Successfully implementing DevSecOps begins well before the application pipeline.
 - Provide complete end-to-end visibility into all components and their respective sources to continuously monitor and proactively identify changes in the risk profile caused by malicious components.
 - Implement monitoring and logging systems that instantly detect, alert, and direct on potential security incidents.
 
+# Tools
+
+## Table of Contents
+- [software-supply-chain-security - Tools](#software-supply-chain-security-tools)
+  - [Introduction - What](#introduction)
+  - [Dependency intelligence](#dependency-intelligence)
+    - [SCA and SBOM](#sca-and-sbom)
+    - [Vulnerability information exchange](#vulnerability-information-exchange)
+  - [Point-of-use validations](#point-of-use-validations)
+    - [Supply chain beyond libraries](#supply-chain-beyond-libraries)
+  - [Identity, signing and provenance](#identity-signing-and-provenance)
+  - [Frameworks and best practice references](#frameworks-and-best-practice-references)
+  - [Build techniques](#build-techniques)
+  - [Talks, articles, media coverage and other reading](#talks-articles-media-coverage-and-other-reading)
+    - [Getting started and staying fresh](#getting-started-and-staying-fresh)
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
