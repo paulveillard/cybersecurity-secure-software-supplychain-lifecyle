@@ -4,7 +4,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 # Theory
-## `Therory` - Table of Contents
+## `Theory` - Table of Contents
 - [Introduction](#introduction)
 - [Enabling a successful DevSecOps Practice](#)
   - [Get trusted images and libraries out-of-the-box](#1-get-trusted-images-and-libraries-out-of-the-box)
