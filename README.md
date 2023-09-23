@@ -11,7 +11,7 @@ An ongoing & curated collection of awesome software best practices and technique
   - [Maintain a highly available container registry from which to securely access and incorporate attested, curated packages](#2--maintain-a-highly-available-container-registry-from-which-to-securely-access-and-incorporate-attested-curated-packages)
 
 ## `Tools` - Table of Contents
-- [software-supply-chain-security - Tools](#software-supply-chain-security-tools)
+- [software-supply-chain-security - Tools](#oftware-supply-chain-security---tools)
   - [Introduction - What this is all about](#introduction---what-this-is-all-about)
   - [Dependency intelligence](#dependency-intelligence)
     - [SCA and SBOM](#sca-and-sbom)
