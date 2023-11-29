@@ -5,7 +5,7 @@ Managing today’s software — composed of a combination of open source code, i
 > It’s not enough anymore to simply run security tests at the end of the development and production process. Waiting that long can have a huge negative impact on your business. In the cloud native era, security needs to be a focal point throughout production and the entire application life cycle.
 
 
-## Table of Contents
+## `Table of Contents`
 
 ## A functional definition of what software supply chain security is.
 Vulnerabilities can occur at all stages of the software life cycle. In the cloud native era, properly securing the **software supply chain starts at the very beginning of the development process and continues throughout production and the entire application life cycle. The tradition of implementing security tests at the end of the development and production process or patching running applications is outmoded.**
