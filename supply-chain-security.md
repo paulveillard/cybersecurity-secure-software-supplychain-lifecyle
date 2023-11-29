@@ -8,7 +8,12 @@ Managing today’s software — composed of a combination of open source code, i
 ## `Table of Contents`
 
 ## `A functional definition of what software supply chain security is.`
-Vulnerabilities can occur at all stages of the software life cycle. In the cloud native era, properly securing the **software supply chain starts at the very beginning of the development process and continues throughout production and the entire application life cycle. The tradition of implementing security tests at the end of the development and production process or patching running applications is outmoded.**
+Vulnerabilities can occur at all stages of the software life cycle.
+
+![image](https://github.com/paulveillard/cybersecurity-secure-software-supplychain-lifecyle/blob/main/img/supply-chain-attacks.PNG)
+
+
+In the cloud native era, properly securing the **software supply chain starts at the very beginning of the development process and continues throughout production and the entire application life cycle. The tradition of implementing security tests at the end of the development and production process or patching running applications is outmoded.**
 
 > Improper security implementation can seriously impact business by delaying important releases in order to address issues found later in the software life cycle or by losing security fixes that were only applied to running workloads.
 
