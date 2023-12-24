@@ -34,9 +34,9 @@ In order To Start locking down the supply chain and protect applications and cod
 
 - Container image scanning before an image is pulled into the build and before deployment.
 
-Signing tools, such as Sigstore, for signing images and configuration files.
+- Signing tools, such as Sigstore, for signing images and configuration files.
 
-Continuous audit and logging for each step in the supply chain.
+- Continuous audit and logging for each step in the supply chain.
 
 - Role-based access and authorization control for all tools used in the supply chain and in production, including namespace and other access to Kubernetes clusters.
 
