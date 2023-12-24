@@ -21,7 +21,7 @@ In the cloud native era, properly securing the **software supply chain starts at
 Just as automation is key for Kubernetes, it’s also critical for the software supply chain. Proper security is continuous, with security gates implemented throughout the build, deploy and runtime process. Proper security allows developers to do their work with guidance from security policies implemented with automated tools that analyze, monitor and intervene when things go awry.
 
 
-## How to assess the threat landscape.
+##  `How to assess the threat landscape.`
 ### Supply Chain Automation Best Practices
 
 In order To Start locking down the supply chain and protect applications and code. These best practices include the automation of:
