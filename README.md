@@ -52,9 +52,11 @@ However, many struggle to maintain consisten security and performance in their c
 #### Stricter regulatory requirements
 
 ## Software Supply Chain DevSecOps Challenge
+
 The overall market is growing toward application platforms that can provide for the fast, secure, continuous deployment of great software experiences that companies compete by. But the reality is that enterprises often struggle with running these parallel tasks. Their challenges include the following:
 
-[
+![image-2](https://github.com/paulveillard/cybersecurity-secure-software-supplychain-lifecyle/blob/main/img/supply_chain_2.PNG)
+
 - Maintaining and Improving legacy applications and infrastructure is complicated and places strain on already limited IT Resources
 - Building and running brand new applications using modern frameworks and cloud-native application architectures increases cognitive load for dev teams
 - Security is often an afterthought that's handled by security and IT operations teams at the end of the application development life cycle, with little to no collaboration with app development and other teams.
