@@ -30,9 +30,9 @@ In order To Start locking down the supply chain and protect applications and cod
 
 - Adherence to the supply-chain levels for software artifacts, or SLSA (pronounced “salsa”).
 
-The integration of policy checks through CI/CD and in runtime.
+- The integration of policy checks through CI/CD and in runtime.
 
-Container image scanning before an image is pulled into the build and before deployment.
+- Container image scanning before an image is pulled into the build and before deployment.
 
 Signing tools, such as Sigstore, for signing images and configuration files.
 
