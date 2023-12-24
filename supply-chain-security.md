@@ -38,13 +38,13 @@ Signing tools, such as Sigstore, for signing images and configuration files.
 
 Continuous audit and logging for each step in the supply chain.
 
-Role-based access and authorization control for all tools used in the supply chain and in production, including namespace and other access to Kubernetes clusters.
+- Role-based access and authorization control for all tools used in the supply chain and in production, including namespace and other access to Kubernetes clusters.
 
-Collection and analysis of platform audit logs, and application logging and monitoring for potential security issues.
+- Collection and analysis of platform audit logs, and application logging and monitoring for potential security issues.
 
-Runtime behavioral security analysis for detection of anomalous behavior.
+- Runtime behavioral security analysis for detection of anomalous behavior.
 
-Processes that ensure that information discovered during development informs deployment and production policies, and that information discovered in production is fed back into the development process.
+- Processes that ensure that information discovered during development informs deployment and production policies, and that information discovered in production is fed back into the development process.
 
 
 ## Where and how to get started with supply chain security.
