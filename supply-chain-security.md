@@ -25,6 +25,8 @@ Just as automation is key for Kubernetes, it’s also critical for the software 
 
 DevOps teams are well aware of the ubiquity of code vulnerabilities that find their way into the development pipeline and in production — but how attackers are exploiting bad code is getting worse.
 
+![image-3](https://github.com/paulveillard/cybersecurity-secure-software-supplychain-lifecyle/blob/main/img/supply_chain_3.PNG)
+
 
 ### Supply Chain Automation Best Practices
 
