@@ -47,10 +47,10 @@ In order To Start locking down the supply chain and protect applications and cod
 - Processes that ensure that information discovered during development informs deployment and production policies, and that information discovered in production is fed back into the development process.
 
 
-## Where and how to get started with supply chain security.
+##  `Where and how to get started with supply chain security. `
 
 
-## The full checklist of best practices.
+##  `The full checklist of best practices. `
 
 
 ## How to defend your software throughout its full life cycle.
