@@ -22,13 +22,13 @@ Just as automation is key for Kubernetes, it’s also critical for the software 
 
 
 ## How to assess the threat landscape.
-Supply Chain Automation Best Practices
+### Supply Chain Automation Best Practices
 
 In order To Start locking down the supply chain and protect applications and code. These best practices include the automation of:
 
-Analysis of code from all sources before the development process even begins, with a software bill of materials (SBOM) for each code source. The SBOM should come with any code that is used. For code and application distribution, open source alternatives such as the Software Package Data Exchange (SPDX) serve to communicate SBOMs.
+- Analysis of code from all sources before the development process even begins, with a software bill of materials (SBOM) for each code source. The SBOM should come with any code that is used. For code and application distribution, open source alternatives such as the Software Package Data Exchange (SPDX) serve to communicate SBOMs.
 
-Adherence to the supply-chain levels for software artifacts, or SLSA (pronounced “salsa”).
+- Adherence to the supply-chain levels for software artifacts, or SLSA (pronounced “salsa”).
 
 The integration of policy checks through CI/CD and in runtime.
 
