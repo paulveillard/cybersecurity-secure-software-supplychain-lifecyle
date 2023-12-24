@@ -22,6 +22,10 @@ Just as automation is key for Kubernetes, it’s also critical for the software 
 
 
 ##  `How to assess the threat landscape.`
+
+DevOps teams are well aware of the ubiquity of code vulnerabilities that find their way into the development pipeline and in production — but how attackers are exploiting bad code is getting worse.
+
+
 ### Supply Chain Automation Best Practices
 
 In order To Start locking down the supply chain and protect applications and code. These best practices include the automation of:
