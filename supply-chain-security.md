@@ -54,6 +54,17 @@ In order To Start locking down the supply chain and protect applications and cod
 
 
 ##  `Where and how to get started with supply chain security. `
+#### What are SBOMs?
+The “shift left” trend is generally thought to apply to the very beginning of the development cycle, at the point when developers first begin to create code and make pull requests. However, for a trusted software supply chain, the work needs to begin in the open source projects that are the building blocks for custom applications.
+
+ 
+
+The information that an SBOM provides about an application, a code library or a third-party vendor’s software is often compared to the lists of ingredients and additives listed on a food label. 
+
+An SBOM provides a library of all libraries used in an application, with a history of all code sources and timelines.
+
+#### What is SLSA?
+The SLSA framework was designed for organizations to make use of its guidance gradually. It is designed to be adopted in incremental steps, all of which offer tangible improvement for software supply chain security along the way. SLSA includes four levels, or “milestones,” as they are called in the documentation, that organizations can attain.
 
 
 ##  `The full checklist of best practices. `
