@@ -100,7 +100,7 @@ Do you enforce MFA and SSH keys for human-entities? Do you have a plan in place 
 
 Do you limit the access of automation agents (like CI/CD pipelines) following the principles of least privilege and just-in-time?
 
-Verify materials
+## Verify materials
 Do you verify that dependencies meet your minimum thresholds for quality and reliability?
 
 Do you automatically scan dependencies for security issues and license compliance?
@@ -132,7 +132,7 @@ Do you network isolate your build workers and pipeline as much as possible?
 
 Do you produce verifiable, reproducible builds?
 
-Protecting artefacts and deployments
+##Protecting artefacts and deployments
 Is every artefact you produce (including metadata and intermediate artefacts) signed?
 
 Do you distribute metadata in a way that can be verified by downstream consumers of your products?
