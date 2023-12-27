@@ -121,15 +121,15 @@ Do you create an SBOM of your own artefacts?
 
 - Do you automate every step in your build pipeline outside of code reviews and final sign-offs?
 
-Do you sign the output of every step in your build pipeline to provide a verifiable guarantee?
+- Do you sign the output of every step in your build pipeline to provide a verifiable guarantee?
 
-Do you validate the signatures and checksums of all dependencies before ingesting them in a build stage?
+- Do you validate the signatures and checksums of all dependencies before ingesting them in a build stage?
 
-Do you use separate build workers/containers for each step in your build pipeline?
+- Do you use separate build workers/containers for each step in your build pipeline?
 
-Do your pipeline orchestrator pass in the environments, tools, and commands allowed on each build worker?
+- Do your pipeline orchestrator pass in the environments, tools, and commands allowed on each build worker?
 
-Do you network isolate your build workers and pipeline as much as possible?
+- Do you network isolate your build workers and pipeline as much as possible?
 
 - Do you produce verifiable, reproducible builds?
 
