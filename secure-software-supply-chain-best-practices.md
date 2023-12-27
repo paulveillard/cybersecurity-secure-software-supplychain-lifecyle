@@ -155,11 +155,13 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 
 ## How to defend your software throughout its full life cycle.
 
-“How well is your security team prepared to apply the
+> “How well is your security team prepared to apply the
 necessary patches and fixes as a best practice, when the
 next dangerous vulnerability is discovered?
-That’s a very roundabout way for the world to discover a global software supply
-chain threat.
+
+**That’s a very roundabout way for the world to discover a global software supply chain threat.**
+
+
 When the next major highly exploitable vulnerability occurs, on par with Log4j’s,
 how well will it be communicated? Just as importantly, how well is your security
 team prepared to apply the necessary patches and fixes as a best practice, when that
