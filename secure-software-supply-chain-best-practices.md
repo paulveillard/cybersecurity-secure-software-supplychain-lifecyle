@@ -80,9 +80,9 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 
 ## Verify source code
 **Committed code on Git:**
-❒ Code tests are completed.
-❒ Signatures are checked for artifacts, with tools such as Ansible or Sigstore content signing technology.
-❒ Policies are stored as code and automatically verified as part of the process to help ensure code meets security, compliance and other policies that apply to the very beginning of the CI/CD process.
+❒ **Code tests are completed.**
+❒ **Signatures are checked for artifacts,** with tools such as Ansible or Sigstore content signing technology.
+❒ **Policies are stored as code** and automatically verified as part of the process to help ensure code meets security, compliance and other policies that apply to the very beginning of the CI/CD process.
 
 - Do you require signed commits?
 
