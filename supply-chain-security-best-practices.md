@@ -66,18 +66,13 @@ The information that an SBOM provides about an application, a code library or a 
 An SBOM provides a library of all libraries used in an application, with a history of all code sources and timelines.
 
 #### What is SLSA?
-The SLSA framework was designed for organizations to make use of its guidance gradually. It is designed to be adopted in incremental steps, all of which offer tangible improvement for software supply chain security along the way. SLSA includes four levels, or “milestones,” as they are called in the documentation, that organizations can attain.
+- The SLSA framework was designed for organizations to make use of its guidance gradually. It is designed to be adopted in incremental steps, all of which offer tangible improvement for software supply chain security along the way. SLSA includes four levels, or “milestones,” as they are called in the documentation, that organizations can attain.
 
 
 ##  `Secure Supply Chain Assessment`
 
-So we have laid down a blueprint for supply chain security — the things your
-organization needs to keep its software safe at all stages of its life cycle.
-This includes software provenance with SBOMs and SLSA. We saw how
-GitOps represents a cornerstone for DevSecOps. We also reviewed the management and
-support of supply chain security best practices as code, thanks to its reliance on
-versioning and traceability, along with the audit trails it supports, and other benefits
-for cloud native environments.
+So we have laid down a blueprint for supply chain security — the things your organization needs to keep its software safe at all stages of its life cycle.
+This includes software provenance with SBOMs and SLSA. We saw how GitOps represents a cornerstone for DevSecOps. We also reviewed the management and support of supply chain security best practices as code, thanks to its reliance on versioning and traceability, along with the audit trails it supports, and other benefits for cloud native environments.
 
 ### Evaluating your supply chain security
 #### A framework for supply chain evaluation
