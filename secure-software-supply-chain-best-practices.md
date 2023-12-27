@@ -112,16 +112,11 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 
 ## Protecting build pipelines
 
-❒ Security tests and container image scanning continues so that only trusted
-container images are deployed. For example, security SAST tests should be run on
-source code, and all dependencies should be scanned for known vulnerabilities.
-Container images, and all the packages contained within them, should also be
-scanned as part of the CI build process. Linters should also be run on application
-configuration once the deployment YAML and Helm charts are available.
-❒ Container image signature is verified with tools such as Sigstore or Ansible
-content signing technology.
-❒ GitOps in place: Tools, such as ArgoCD for GitOps, help to ensure the Git
-repository remains the single source of truth for application configuration files.
+❒ Security tests and container image scanning continues so that only trusted container images are deployed. For example, security SAST tests should be run on source code, and all dependencies should be scanned for known vulnerabilities. Container images, and all the packages contained within them, should also be scanned as part of the CI build process. Linters should also be run on application configuration once the deployment YAML and Helm charts are available.
+
+❒ Container image signature is verified with tools such as Sigstore or Ansible content signing technology.
+
+❒ GitOps in place: Tools, such as ArgoCD for GitOps, help to ensure the Git repository remains the single source of truth for application configuration files.
 
 
 
