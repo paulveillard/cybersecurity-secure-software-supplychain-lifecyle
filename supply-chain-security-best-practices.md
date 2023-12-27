@@ -6,6 +6,7 @@ Managing today’s software — composed of a combination of open source code, i
 
 
 ## `Table of Contents`
+- [Supply Chain Functional Definition](#)
 - [Secure Supply Chain Assessment](#)
 
 ## `A functional definition of what software supply chain security is.`
