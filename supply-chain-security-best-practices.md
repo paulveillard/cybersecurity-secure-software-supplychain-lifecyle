@@ -81,21 +81,21 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 ## Verify source code
 - Do you require signed commits?
 
-Do you use git hooks or automated scans to prevent committing secrets to source control?
+- Do you use git hooks or automated scans to prevent committing secrets to source control?
 
-Have you defined an unacceptable risk level for vulnerabilities? For example: no code may be committed that includes Critical or High vulnerabilities
+- Have you defined an unacceptable risk level for vulnerabilities? For example: no code may be committed that includes Critical or High vulnerabilities
 
-Do you use automated scanning to detect and prevent security issues, vulnerable dependencies, etc. from being committed to the repo that are not in compliance with your defined risk threshold?
+- Do you use automated scanning to detect and prevent security issues, vulnerable dependencies, etc. from being committed to the repo that are not in compliance with your defined risk threshold?
 
-Have you defined clear contributors roles? Are they documented and discoverable?
+- Have you defined clear contributors roles? Are they documented and discoverable?
 
-Do you enforce review and approval of contributions prior to merging?
+- Do you enforce review and approval of contributions prior to merging?
 
-Are branch protection rules in place?
+- Are branch protection rules in place?
 
-Do you enforce MFA and SSH keys for human-entities? Do you have a plan in place for rotating SSH keys at regular intervals or following a key leak?
+- Do you enforce MFA and SSH keys for human-entities? Do you have a plan in place for rotating SSH keys at regular intervals or following a key leak?
 
-Do you limit the access of automation agents (like CI/CD pipelines) following the principles of least privilege and just-in-time?
+- Do you limit the access of automation agents (like CI/CD pipelines) following the principles of least privilege and just-in-time?
 
 ## Verify materials
 - Do you verify that dependencies meet your minimum thresholds for quality and reliability?
