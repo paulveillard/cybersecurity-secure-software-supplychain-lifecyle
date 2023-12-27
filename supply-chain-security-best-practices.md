@@ -1,4 +1,4 @@
-# Supply Chain Security: How to Protect Containerized Applications
+# Supply Chain Security Best Practices: How to Protect Containerized Applications
 
 Managing today’s software — composed of a combination of open source code, in-house code, and third-party code — has elevated the application risk from design and build through production and management. With more points of vulnerability within today’s software supply chain, the number of attacks has grown exponentially.
 
