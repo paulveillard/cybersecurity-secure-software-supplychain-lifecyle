@@ -159,7 +159,7 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 - Can your downstream consumers verify/validate any artefact they ingest from you before they use/deploy it?
    
 
-## The Way Forward: How to defend your software throughout its full life cycle
+## `The Way Forward: How to defend your software throughout its full life cycle`
 
 > “How well is your security team prepared to apply the
 necessary patches and fixes as a best practice, when the
