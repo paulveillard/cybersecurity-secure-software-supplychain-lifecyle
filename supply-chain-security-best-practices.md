@@ -103,17 +103,17 @@ Do you enforce MFA and SSH keys for human-entities? Do you have a plan in place 
 Do you limit the access of automation agents (like CI/CD pipelines) following the principles of least privilege and just-in-time?
 
 ## Verify materials
-Do you verify that dependencies meet your minimum thresholds for quality and reliability?
+- Do you verify that dependencies meet your minimum thresholds for quality and reliability?
 
-Do you automatically scan dependencies for security issues and license compliance?
+- Do you automatically scan dependencies for security issues and license compliance?
 
-Do you automatically perform Software Composition Analysis on dependencies when they are downloaded/installed?
+- Do you automatically perform Software Composition Analysis on dependencies when they are downloaded/installed?
 
-Do you monitor dependencies for updates and security issues?
+- Do you monitor dependencies for updates and security issues?
 
-Do you build dependencies yourself instead of relying on public package managers?
+- Do you build dependencies yourself instead of relying on public package managers?
 
-Do you create an SBOM of your own artefacts?
+- Do you create an SBOM of your own artefacts?
 
 ## Protecting build pipelines
 - Do you use hardened, minimal containers as the foundation for your build workers?
