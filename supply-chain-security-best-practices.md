@@ -113,7 +113,7 @@ Do you build dependencies yourself instead of relying on public package managers
 
 Do you create an SBOM of your own artefacts?
 
-Protecting build pipelines
+## Protecting build pipelines
 Do you use hardened, minimal containers as the foundation for your build workers?
 
 Do you maintain your build and test pipelines as Infrastructure-as-Code?
@@ -130,14 +130,14 @@ Do your pipeline orchestrator pass in the environments, tools, and commands allo
 
 Do you network isolate your build workers and pipeline as much as possible?
 
-Do you produce verifiable, reproducible builds?
+- Do you produce verifiable, reproducible builds?
 
 ## Protecting artefacts and deployments
 - Is every artefact you produce (including metadata and intermediate artefacts) signed?
 
-Do you distribute metadata in a way that can be verified by downstream consumers of your products?
+- Do you distribute metadata in a way that can be verified by downstream consumers of your products?
 
-Can your downstream consumers verify/validate any artefact they ingest from you before they use/deploy it?
+- Can your downstream consumers verify/validate any artefact they ingest from you before they use/deploy it?
 
 
 ## How to defend your software throughout its full life cycle.
