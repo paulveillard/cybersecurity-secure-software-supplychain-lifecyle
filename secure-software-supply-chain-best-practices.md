@@ -140,10 +140,9 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 
 ## Protecting artefacts and deployments
 
-❒ Security monitoring continues. Ensure that platform and application
-monitoring solutions are in place, including runtime behavioral analysis tools.
-❒ Testing includes dynamic application security testing (DAST), which should be
-done in a staging environment.
+❒ **Security monitoring continues**. Ensure that platform and application monitoring solutions are in place, including runtime behavioral analysis tools.
+
+❒ **Testing includes dynamic application security testing (DAST)**, which should be done in a staging environment.
 
 
 
@@ -155,3 +154,23 @@ done in a staging environment.
 
 
 ## How to defend your software throughout its full life cycle.
+
+“How well is your security team prepared to apply the
+necessary patches and fixes as a best practice, when the
+next dangerous vulnerability is discovered?
+That’s a very roundabout way for the world to discover a global software supply
+chain threat.
+When the next major highly exploitable vulnerability occurs, on par with Log4j’s,
+how well will it be communicated? Just as importantly, how well is your security
+team prepared to apply the necessary patches and fixes as a best practice, when that
+dangerous vulnerability is discovered? These are all critical issues the industry will
+need to address.
+Community support and collaboration will remain essential to cloud native security
+practices in the future. This will include drawing from such community resources as
+The Linux Foundation’s Trust and Security Initiative (TSI), which was created in part
+to communicate security projects that deserve interest.
+Organizations should also foster and support their developers’ contributions to open
+source security tools and projects.
+There’s no way to totally eliminate risk from the software supply chain. But
+following — and building on —the blueprint we’ve shared in this ebook can help
+your organization defend its code, and its business, wisely and well.
