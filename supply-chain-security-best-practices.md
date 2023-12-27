@@ -132,8 +132,8 @@ Do you network isolate your build workers and pipeline as much as possible?
 
 Do you produce verifiable, reproducible builds?
 
-##Protecting artefacts and deployments
-Is every artefact you produce (including metadata and intermediate artefacts) signed?
+## Protecting artefacts and deployments
+- Is every artefact you produce (including metadata and intermediate artefacts) signed?
 
 Do you distribute metadata in a way that can be verified by downstream consumers of your products?
 
