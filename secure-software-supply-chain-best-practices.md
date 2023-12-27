@@ -139,6 +139,14 @@ So how does your supply chain stack up? Here are some questions to ask yourself:
 - Do you produce verifiable, reproducible builds?
 
 ## Protecting artefacts and deployments
+
+❒ Security monitoring continues. Ensure that platform and application
+monitoring solutions are in place, including runtime behavioral analysis tools.
+❒ Testing includes dynamic application security testing (DAST), which should be
+done in a staging environment.
+
+
+
 - Is every artefact you produce (including metadata and intermediate artefacts) signed?
 
 - Do you distribute metadata in a way that can be verified by downstream consumers of your products?
