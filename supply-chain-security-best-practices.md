@@ -67,7 +67,7 @@ An SBOM provides a library of all libraries used in an application, with a histo
 The SLSA framework was designed for organizations to make use of its guidance gradually. It is designed to be adopted in incremental steps, all of which offer tangible improvement for software supply chain security along the way. SLSA includes four levels, or “milestones,” as they are called in the documentation, that organizations can attain.
 
 
-##  `The full checklist of best practices. `
+##  `Secure Supply Chain Assessment`
 
 So we have laid down a blueprint for supply chain security — the things your
 organization needs to keep its software safe at all stages of its life cycle.
