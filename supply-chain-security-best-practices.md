@@ -6,6 +6,7 @@ Managing today’s software — composed of a combination of open source code, i
 
 
 ## `Table of Contents`
+- [Secure Supply Chain Assessment](#)
 
 ## `A functional definition of what software supply chain security is.`
 Vulnerabilities can occur at all stages of the software life cycle.
