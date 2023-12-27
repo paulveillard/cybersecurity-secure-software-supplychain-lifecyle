@@ -69,5 +69,13 @@ The SLSA framework was designed for organizations to make use of its guidance gr
 
 ##  `The full checklist of best practices. `
 
+So we have laid down a blueprint for supply chain security — the things your
+organization needs to keep its software safe at all stages of its life cycle.
+This includes software provenance with SBOMs and SLSA. We saw how
+GitOps represents a cornerstone for DevSecOps. We also reviewed the management and
+support of supply chain security best practices as code, thanks to its reliance on
+versioning and traceability, along with the audit trails it supports, and other benefits
+for cloud native environments
+
 
 ## How to defend your software throughout its full life cycle.
