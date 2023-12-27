@@ -115,11 +115,11 @@ Do you build dependencies yourself instead of relying on public package managers
 Do you create an SBOM of your own artefacts?
 
 ## Protecting build pipelines
-Do you use hardened, minimal containers as the foundation for your build workers?
+- Do you use hardened, minimal containers as the foundation for your build workers?
 
-Do you maintain your build and test pipelines as Infrastructure-as-Code?
+- Do you maintain your build and test pipelines as Infrastructure-as-Code?
 
-Do you automate every step in your build pipeline outside of code reviews and final sign-offs?
+- Do you automate every step in your build pipeline outside of code reviews and final sign-offs?
 
 Do you sign the output of every step in your build pipeline to provide a verifiable guarantee?
 
